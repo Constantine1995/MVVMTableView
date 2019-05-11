@@ -24,4 +24,4 @@ class TableViewCellViewModel: TableViewCellViewModelType {
         self.profile = profile
     }
 }
- 
+
